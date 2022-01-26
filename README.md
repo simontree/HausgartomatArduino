@@ -1,5 +1,7 @@
 # Plantomat / Hausgartomat-Arduino
-Arduino Code for the Hausgartomat Project HTW-Berlin GMM/EMM
+Arduino Code for the Plantomat-/Hausgartomat Project HTW-Berlin
+
+Related Courses: Development & Design of Multimediasystems
 
 Hausgartomat will be an automated growing system for interested urban gardeners.
 
